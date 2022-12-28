@@ -1,4 +1,4 @@
-# BangaluruHomePrediction
+# BangaluruHomePricePrediction
 
 ![](BHP_website.png)
 
