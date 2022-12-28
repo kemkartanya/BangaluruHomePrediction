@@ -1,6 +1,6 @@
 # BangaluruHomePrediction
 
-![](BHP_website.PNG)
+![](BHP_website.png)
 
 This data science project "real estate price prediction website". 
 We will first build a model using sklearn and linear regression using banglore home prices dataset from kaggle.com. <br>
